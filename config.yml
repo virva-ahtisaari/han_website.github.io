@@ -57,20 +57,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: About me
               url: papers/
-            - name: Courses
+            - name: Research
               url: courses/
-            - name: Data
+            - name: Publications
               url: data/
-            - name: Books
+            - name: Outreach
               url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
